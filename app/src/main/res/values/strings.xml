@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Travel App</string>
+    <string name="lbl_empty">There is no avaliable Tours yet</string>
+    <string name="lbl_tour_title">Find the best tour</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="lbl_rating_fragment">Rating Fragment</string>
+    <string name="lbl_search_fragment">Search Fragment</string>
+    <string name="lbl_favorite_fragment">Favorite Fragment</string>
+    <string name="lbl_price_fragment">Price Fragment</string>
+
+</resources>
